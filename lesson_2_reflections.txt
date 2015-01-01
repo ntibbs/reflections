@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it? it creates the first 
+commit for that directory. it has to have somewhere to start. How is the staging area different
+ from the working directory and the repository? What value do you think it offers? the staging area
+  is a middle man for while you add the different file you want to commit into your repository. its
+  awesome because sometime you might not need or want to commit all files. you can also check the status
+   to see what files are in the staging area to make sure you ave everything you wanted ready for the
+    commit.

@@ -1,0 +1,25 @@
+How did viewing a diff between two versions of a file help you see the bug that was
+ introduced? it pulled up the stop in the two programs that had been changed. one 
+line showed what it was changed from and the other showed what it was changed to.
+How could having easy access to the entire history of a file make you a more efficient
+ programmer in the long term? if you end up changing somethings in a program and you
+ dont end up liking the outcome you can go back to a prev version where you were happy.
+ Also if you cant remember how you did something you can go back and look to see how
+ you did it.What do you think are the pros and cons of manually choosing when to create
+ a commit, like you do in Git, vs having versions automatically saved, like Google docs
+ does? controlling the commits manually can cause someone to commi to much or not enough.
+But having a program commit for you could cause the creation of a commit at a time that
+is completely unnesscary or wouldnt make sense when someone went back to look at that 
+specific commit.Why do you think some version control systems, like Git, allow saving
+ multiple files in one commit, while others, like Google Docs, treat each file separately?
+For coding it is common to make a change that effect multiple files. so something like
+git help out for that. where as something like google docs isnt geared towards coders 
+so it does not specifaccly help out with this.How can you use the commands git log and
+ git diff to view the history of files? git log shows you when a new commit was done and
+a short description of what was changed. git diff shows you the difference in the first 
+version compared to the second version.How might using version control make you more
+ confident to make changes that could break something? ill know that i have a prev 
+saved that i can o back to if i do end up breaking something. Now that you have your
+ workspace set up, what do you want to try using Git for?  id like to see how most people 
+use git and then try to do what they do with it. i want to know some of the best things it
+ does and how to do those things.
