@@ -4,4 +4,4 @@ commit for that directory. it has to have somewhere to start. How is the staging
   is a middle man for while you add the different file you want to commit into your repository. its
   awesome because sometime you might not need or want to commit all files. you can also check the status
    to see what files are in the staging area to make sure you ave everything you wanted ready for the
-    commit.
+    commit.How can you use the staging area to make sure you have one commit per logical change? you can add one single file to the staging area or multiple files depending on what all is effected by the change. then you can look at the diff to make use you are only subitting files for that one change to the new commit.
