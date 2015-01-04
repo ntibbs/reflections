@@ -4,4 +4,17 @@ commit for that directory. it has to have somewhere to start. How is the staging
   is a middle man for while you add the different file you want to commit into your repository. its
   awesome because sometime you might not need or want to commit all files. you can also check the status
    to see what files are in the staging area to make sure you ave everything you wanted ready for the
-    commit.How can you use the staging area to make sure you have one commit per logical change? you can add one single file to the staging area or multiple files depending on what all is effected by the change. then you can look at the diff to make use you are only subitting files for that one change to the new commit.
+    commit.How can you use the staging area to make sure you have one commit per logical change? you
+ can add one single file to the staging area or multiple files depending on what all is effected by
+ the change. then you can look at the diff to make use you are only subitting files for that one change
+ to the new commit.What are some situations when branches would be helpful in keeping your history
+ organized? How would branches help? if you want to try making different changes but you want to keep
+ your working version in tact. branches would allow you to make different version of your code without 
+changing your code or making you go back and forth to the latest working version if needed.
+How do the diagrams help you visualize the branch structure? they help a lot. especially the part
+ about checking out old commits and need to create new branches for them. What is the result of merging
+ two branches together? Why do we represent it in the diagram the way we do?when you merge two branches
+ together you add the changes in the head of the branch to the head of the master branch. we represent
+ it like that because it has parents from 2 different branches. What are the pros and cons of Git’s
+ automatic merging vs. always doing merges manually? the con is that it adds one extra step. pros
+ are it lets you make sure you are getting the correct final result every time.
